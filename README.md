@@ -5,3 +5,4 @@ These web pages are interlinked with each other.
 This is Coaching Institute web page created using technologies HTML & CSS.
 Basically here user can see that which type of institutiob it is & can also see that which courses are available.
 User can also check the pricing of the courses.
+Internal CSS is used ibt he project.
